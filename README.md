@@ -1,11 +1,11 @@
 ## SaveLoadManager for Unity Game Engine
 
-This repository contains C# scripts for the Unity game engine that implement a SaveLoadManager. Two different versions are available:
+This repository contains C# scripts for the Unity game engine that implement a versatile SaveLoadManager. 
 
-1. **SaveLoadBinaryFormatter.cs:** Uses BinaryFormatter and FileStream for saving and loading game data.
+Two versions are available:
+- One utilizes BinaryFormatter and FileStream for robust data storage.
+- The other offers a lightweight storage solution using PlayerPrefs.
 
-2. **SaveLoadPlayerPrefs.cs:** Uses PlayerPrefs for a lightweight storage solution.
+These scripts enable you to efficiently save and load game data, simplifying the process of managing and persisting player progress in your Unity projects.
 
-These scripts provide options for saving and loading game data, making it easier to manage and persist player progress in your Unity games.
-
-Feel free to explore and use these scripts in your Unity projects!
+Feel free to explore and integrate these scripts into your Unity games!
