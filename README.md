@@ -1,4 +1,4 @@
-# SaveLoadManager for Unity Game Engine
+# SaveLoadManager C# Script for your project in Unity Game engine
 
 This repository contains C# scripts for the Unity game engine that implement a versatile SaveLoadManager.
 
